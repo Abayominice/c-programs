@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1541441882 source:c:\users\fujitsu\desktop\c or c++ files\library management\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<process.h>
+	<ctype.h>
+	<time.h>
+	<direct.h>
+

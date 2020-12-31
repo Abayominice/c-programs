@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1543412628 source:c:\users\fujitsu\desktop\c or c++ files\program to print all odd numbers between 1 to 11001\main.c
+	<stdio.h>
+	<stdlib.h>
+

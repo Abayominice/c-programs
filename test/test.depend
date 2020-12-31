@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1526587582 source:c:\users\abayomi usman\desktop\c or c++ files\test\main.c
+	<stdio.h>
+	<conio.h>
+
+1526587065 source:c:\users\abayomi usman\desktop\c or c++ files\first.c
+	<stdio.h>
+	<conio.h>
+
